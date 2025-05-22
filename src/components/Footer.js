@@ -102,7 +102,7 @@ function Footer() {
           />
         </svg>
       ),
-      title: "tienthanhprint@gmail.com",
+      title: "intienthanh6868@gmail.com",
     },
     {
       id: 4,
@@ -137,7 +137,7 @@ function Footer() {
     // },
     {
       icon: iconGm,
-      url: "mailto: tienthanhprint@gmail.com?subject=Feedback&body=Message",
+      url: "mailto: intienthanh6868@gmail.com?subject=Feedback&body=Message",
       context: "Gmail",
     },
     {

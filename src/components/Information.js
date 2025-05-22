@@ -13,7 +13,7 @@ function Information() {
         </p>
         <p className="text-base text-gray-500 pb-2">Điện thoại: 0924594222</p>
         <p className="text-base text-gray-500 pb-2">
-          Email: tienthanhprint@gmail.com
+          Email: intienthanh6868@gmail.com
         </p>
         <p className="text-base text-gray-500 pb-2">
           Làm việc: T2 - CN / 8:00 AM - 11:00 PM

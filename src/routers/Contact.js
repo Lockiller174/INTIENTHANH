@@ -92,7 +92,7 @@ function Contact() {
           />
         </svg>
       ),
-      title: "tienthanhprint@gmail.com",
+      title: "intienthanh6868@gmail.com",
     },
     {
       id: 4,

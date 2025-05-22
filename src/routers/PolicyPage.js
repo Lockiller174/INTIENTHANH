@@ -189,7 +189,7 @@ function PolicyPage() {
         3.Thời gian lưu trữ thông tin
       </h6>
       <p class="policy-page__paragraph text-base text-gray-500 pb-2">
-      Đối với thông tin cá nhân, <span class="text-orange-600 italic">inanhoanggia.vn</span> chỉ xóa đi dữ liệu này nếu khách hàng có yêu cầu, khách hàng yêu cầu gửi mail về <span class="text-orange-600 italic">tienthanhprint@gmail.com</span>
+      Đối với thông tin cá nhân, <span class="text-orange-600 italic">inanhoanggia.vn</span> chỉ xóa đi dữ liệu này nếu khách hàng có yêu cầu, khách hàng yêu cầu gửi mail về <span class="text-orange-600 italic">intienthanh6868@gmail.com</span>
       </p>
       <h6 class="policy-page__title text-base text-orange-700 uppercase py-3">
         4.Những người hoặc tổ chức có thể được tiếp cận với thông tin cá nhân
@@ -219,7 +219,7 @@ function PolicyPage() {
       Website: <span class="text-orange-600 italic">inanhoanggia.vn</span>
       </p>
       <p class="policy-page__paragraph text-base text-gray-500">
-      Email: <span class="text-orange-600 italic">tienthanhprint@gmail.com</span>
+      Email: <span class="text-orange-600 italic">intienthanh6868@gmail.com</span>
       </p>
       <h6 class="policy-page__title text-base text-orange-700 uppercase py-3">
        6.Phương tiện và công cụ để người dùng tiếp cận và chỉnh sửa dữ liệu cá nhân của mình
@@ -246,7 +246,7 @@ function PolicyPage() {
       – Khi cơ quan pháp luật có yêu cầu.
       </p>
       <p class="policy-page__paragraph text-base text-gray-500 pb-4">
-      <span class="text-orange-600 italic">inanhoanggia.vn</span> hiểu rằng quyền lợi của bạn trong việc bảo vệ thông tin cá nhân cũng chính là trách nhiệm của chúng tôi nên trong bất kỳ trường hợp có thắc mắc, góp ý nào liên quan đến chính sách bảo mật của <span class="text-orange-600 italic">inanhoanggia.vn</span> , và liên quan đến việc thông tin cá nhân bị sử dụng sai mục đích hoặc phạm vi đã thông báo vui lòng liên hệ qua số hotline 0756.38.4567 hoặc email: <span class="text-orange-600 italic">tienthanhprint@gmail.com</span>
+      <span class="text-orange-600 italic">inanhoanggia.vn</span> hiểu rằng quyền lợi của bạn trong việc bảo vệ thông tin cá nhân cũng chính là trách nhiệm của chúng tôi nên trong bất kỳ trường hợp có thắc mắc, góp ý nào liên quan đến chính sách bảo mật của <span class="text-orange-600 italic">inanhoanggia.vn</span> , và liên quan đến việc thông tin cá nhân bị sử dụng sai mục đích hoặc phạm vi đã thông báo vui lòng liên hệ qua số hotline 0756.38.4567 hoặc email: <span class="text-orange-600 italic">intienthanh6868@gmail.com</span>
       </p>
     </div>`,
       },

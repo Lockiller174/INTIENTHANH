@@ -128,7 +128,7 @@ function Share() {
           <a
             className="df-center"
             target="blank"
-            href="mailto: tienthanhprint@gmail.com?subject=Feedback&body=Message"
+            href="mailto: intienthanh6868@gmail.com?subject=Feedback&body=Message"
             title="Mail"
           >
             <div className="sharing__item-icon df-center">
