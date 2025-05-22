@@ -125,7 +125,7 @@ function Footer() {
           />
         </svg>
       ),
-      title: "T2 - CN / 8:00 AM - 11:00 PM",
+      title: "T2 - CN / 8:00 AM - 07:00 PM",
     },
   ];
 

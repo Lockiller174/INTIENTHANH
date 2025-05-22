@@ -58,7 +58,7 @@ function AnnouncementBar() {
                   d="M12 8v4l3 3m6-3a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"
                 />
               </svg>
-              <p className="text-xs text-white">T2 - CN / 8:00 AM - 11:00 PM</p>
+              <p className="text-xs text-white">T2 - CN / 8:00 AM - 07:00 PM</p>
             </div>
             <a href="tel:0924594222" className="flex items-center gap-1.5">
               <svg
