@@ -142,7 +142,7 @@ function Footer() {
     },
     {
       icon: iconZl,
-      url: "https://zalo.me/0924594222",
+      url: "https://zalo.me/0976379636",
       context: "Zalo",
     },
   ];

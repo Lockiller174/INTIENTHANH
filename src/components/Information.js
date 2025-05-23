@@ -11,7 +11,7 @@ function Information() {
         <p className="text-base text-gray-500 pb-2">
           Địa chỉ: 90 Trần Thái Tông, Cầu Giấy, Hà Nội
         </p>
-        <p className="text-base text-gray-500 pb-2">Điện thoại: 0924594222</p>
+        <p className="text-base text-gray-500 pb-2">Điện thoại: 0976379636</p>
         <p className="text-base text-gray-500 pb-2">
           Email: intienthanh6868@gmail.com
         </p>

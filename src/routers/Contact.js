@@ -70,7 +70,7 @@ function Contact() {
           />
         </svg>
       ),
-      title: "0924594222",
+      title: "0976379636",
     },
     {
       id: 3,
