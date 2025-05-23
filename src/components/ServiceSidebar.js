@@ -25,8 +25,8 @@ function ServiceSidebar({ activeService }) {
           <li key={service.name}>
             <Link
               to={service.href}
-              className={`block py-3 px-4 transition-colors hover:bg-gray-100 ${
-                activeService === service.name ? "bg-gray-100 text-brand-red font-medium" : ""
+              className={`block py-3 px-4 duration-300 transition-colors hover:bg-orange-700 hover:text-white ${
+                activeService === service.name ? "bg-red-700 text-white font-medium" : ""
               }`}
             >
               {service.name}
