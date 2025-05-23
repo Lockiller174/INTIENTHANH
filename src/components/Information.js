@@ -16,7 +16,7 @@ function Information() {
           Email: intienthanh6868@gmail.com
         </p>
         <p className="text-base text-gray-500 pb-2">
-          Làm việc: T2 - CN / 8:00 AM - 07:00 PM
+          Làm việc: T2 - T7 / 8:00 AM - 07:00 PM
         </p>
       </div>
       <div className="pt-4">
