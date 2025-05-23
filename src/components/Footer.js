@@ -80,7 +80,7 @@ function Footer() {
           />
         </svg>
       ),
-      title: "0924.594.222",
+      title: "0976.379.636",
     },
     {
       id: 3,

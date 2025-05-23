@@ -60,7 +60,7 @@ function AnnouncementBar() {
               </svg>
               <p className="text-xs text-white">T2 - T7 / 8:00 AM - 07:00 PM</p>
             </div>
-            <a href="tel:0924.594.222" className="flex items-center gap-1.5">
+            <a href="tel:0976.379.636" className="flex items-center gap-1.5">
               <svg
                 className="text-white"
                 aria-hidden="true"
