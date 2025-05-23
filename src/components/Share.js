@@ -8,7 +8,7 @@ function Share() {
           className="sharing__item sharing__item--call"
           style={{ "--color": "#ba363d" }}
         >
-          <a className="df-center" href="tel:0353688174" title="Phone">
+          <a className="df-center" href="tel:0924594222" title="Phone">
             <div className="sharing__item-icon df-center">
               <svg
                 width="44"
