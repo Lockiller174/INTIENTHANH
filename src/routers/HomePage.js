@@ -40,8 +40,18 @@ function HomePage() {
       </div>
       <div className="container">
         <div className="row">
-          <div className="col" style={{ "--col-sm": "12", "--col-md": "4", "--col-lg": "3" }}><ServiceSidebar /></div>
-          <div className="col" style={{ "--col-sm": "12", "--col-md": "8", "--col-lg": "9" }}><HeroSlider /></div>
+          <div
+            className="col"
+            style={{ "--col-sm": "12", "--col-md": "4", "--col-lg": "3" }}
+          >
+            <ServiceSidebar />
+          </div>
+          <div
+            className="col"
+            style={{ "--col-sm": "12", "--col-md": "8", "--col-lg": "9" }}
+          >
+            <HeroSlider />
+          </div>
         </div>
       </div>
       {/* categories */}

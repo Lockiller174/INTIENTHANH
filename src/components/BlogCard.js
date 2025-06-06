@@ -12,7 +12,7 @@ function BlogCard({ image, link, title, description, date }) {
   };
 
   return (
-    <div className="blog-card group hover:cursor-pointer">
+    <div className="blog-card h-full group hover:cursor-pointer">
       <div className="blog-card__link" onClick={handleCardClick}>
         <div className="blog-card__head relative">
           <div className="blog-card__image overflow-hidden">

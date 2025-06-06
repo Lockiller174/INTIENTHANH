@@ -20,7 +20,10 @@ function BlogPost() {
   useEffect(() => {
     fetch("/data/blogs.json")
       .then((res) => res.json())
-      .then((data) => setBlogs(data.blogs))
+      .then((data) => {
+        const shuffled = [...data.blogs].sort(() => 0.5 - Math.random());
+        setBlogs(shuffled.slice(0, 6));
+      })
       .catch((error) => console.error("Error fetching data:", error));
   }, []);
 

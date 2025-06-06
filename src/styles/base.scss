@@ -34,3 +34,14 @@ body{
   background-color: var(--color-background);
   box-sizing: border-box;
 }
+
+.categories-detail {
+  img {
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+    ~ div {
+      width: fit-content;
+    }
+  }
+}

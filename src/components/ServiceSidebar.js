@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 const services = [
-  { name: "In Tranh Canvas tại Hà Nội", href: "/danh-muc-in/in-tranh-canvas" },
+  { name: "In Tranh Canvas tại Hà Nội", href: "/danh-muc-in/in-lua-canvas" },
   { name: "In Standee tại Hà Nội", href: "/danh-muc-in/in-standee" },
   { name: "In Poster tại Hà Nội", href: "/danh-muc-in/in-poster" },
   { name: "In Backdrop tại Hà Nội", href: "/danh-muc-in/in-backdrop" },
@@ -26,7 +26,9 @@ function ServiceSidebar({ activeService }) {
             <Link
               to={service.href}
               className={`block py-3 px-4 duration-300 transition-colors hover:bg-orange-700 hover:text-white ${
-                activeService === service.name ? "bg-red-700 text-white font-medium" : ""
+                activeService === service.name
+                  ? "bg-red-700 text-white font-medium"
+                  : ""
               }`}
             >
               {service.name}
@@ -36,6 +38,6 @@ function ServiceSidebar({ activeService }) {
       </ul>
     </div>
   );
-};
+}
 
 export default ServiceSidebar;

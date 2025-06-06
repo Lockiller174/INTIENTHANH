@@ -20,7 +20,10 @@ function Categories() {
   useEffect(() => {
     fetch("/data/categories.json")
       .then((res) => res.json())
-      .then((data) => setCategories(data.categories))
+      .then((data) => {
+        const shuffled = [...data.categories].sort(() => 0.5 - Math.random());
+        setCategories(shuffled.slice(0, 6));
+      })
       .catch((error) => console.error("Error fetching data:", error));
   }, []);
 

@@ -38,20 +38,29 @@ function HeroSlider() {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      setCurrent((current) => (current === slides.length - 1 ? 0 : current + 1));
+      setCurrent((current) =>
+        current === slides.length - 1 ? 0 : current + 1
+      );
     }, 5000);
     return () => clearInterval(interval);
   }, []);
 
   return (
-    <div className="relative overflow-hidden h-[300px] md:h-[400px] lg:h-[500px]">
+    <div className="relative overflow-hidden h-[300px] md:h-[400px] lg:h-full">
       <div
         className="flex transition-transform duration-500 ease-in-out h-full"
         style={{ transform: `translateX(-${current * 100}%)` }}
       >
         {slides.map((slide) => (
-          <div key={slide.id} className="min-w-full h-full relative">
-            <img src={slide.image} alt={slide.alt} />
+          <div
+            key={slide.id}
+            className="min-w-full h-full relative flex items-center justify-center shink"
+          >
+            <img
+              className="h-full w-full object-contain"
+              src={slide.image}
+              alt={slide.alt}
+            />
           </div>
         ))}
       </div>
@@ -59,17 +68,45 @@ function HeroSlider() {
       {/* Navigation Arrows */}
       <button
         onClick={prev}
-        className="absolute left-4 top-1/2 -translate-y-1/2 bg-white/30 hover:bg-white/60 rounded-full p-2 backdrop-blur-sm"
+        className="absolute left-4 top-1/2 -translate-y-1/2 bg-orange-700 hover:bg-orange-800 rounded-full p-2 w-[48px] h-[48px] flex items-center justify-center shink"
         aria-label="Previous slide"
       >
-        Prev
+        <svg
+          class="w-4 h-4 text-white"
+          aria-hidden="true"
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 8 14"
+        >
+          <path
+            stroke="currentColor"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="2"
+            d="M7 1 1.3 6.326a.91.91 0 0 0 0 1.348L7 13"
+          />
+        </svg>
       </button>
       <button
         onClick={next}
-        className="absolute right-4 top-1/2 -translate-y-1/2 bg-white/30 hover:bg-white/60 rounded-full p-2 backdrop-blur-sm"
+        className="absolute right-4 top-1/2 -translate-y-1/2 bg-orange-700 hover:bg-orange-800 rounded-full p-2 w-[48px] h-[48px] flex items-center justify-center shink"
         aria-label="Next slide"
       >
-        Next
+        <svg
+          class="w-4 h-4 text-white"
+          aria-hidden="true"
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 8 14"
+        >
+          <path
+            stroke="currentColor"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="2"
+            d="m1 13 5.7-5.326a.909.909 0 0 0 0-1.348L1 1"
+          />
+        </svg>
       </button>
 
       {/* Indicators */}
@@ -79,7 +116,7 @@ function HeroSlider() {
             key={index}
             onClick={() => setCurrent(index)}
             className={`w-3 h-3 rounded-full ${
-              current === index ? "bg-brand-red" : "bg-white/50"
+              current === index ? "bg-orange-700" : "bg-orange-700/50"
             }`}
             aria-label={`Go to slide ${index + 1}`}
           />
