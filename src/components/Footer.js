@@ -57,8 +57,8 @@ function Footer() {
           />
         </svg>
       ),
-      title: "Số nhà 2-70, ngõ 70 Lưu Hữu Phước, Nam Từ Liêm, TP Hà
-Nội ",
+      title:
+        "2 Ng. 70 P. Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội, Việt Nam ",
     },
     {
       id: 2,
@@ -172,7 +172,7 @@ Nội ",
   ];
 
   const frame = `
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.048245872992!2d105.78532767503145!3d21.03075548061906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab4c0052fe7b%3A0x10434916d1d2b3de!2zU3VucmlzZSBCdWlsZGluZywgOTAgUC5UcuG6p24gVGjDoWkgVMO0bmcsIEThu4tjaCBW4buNbmcgSOG6rXUsIEPhuqd1IEdp4bqleSwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1744013728080!5m2!1svi!2s" width="100%" height="230" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d391.4338702304673!2d105.76141740962949!3d21.03398443904048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313454be870e61e5%3A0x941e22f5117d3b68!2zMiBOZy4gNzAgUC4gTMawdSBI4buvdSBQaMaw4bubYywgQ-G6p3UgRGnhu4VuLCBOYW0gVOG7qyBMacOqbSwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1749226896988!5m2!1svi!2s" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   `;
 
   return (
