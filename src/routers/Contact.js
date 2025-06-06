@@ -47,7 +47,8 @@ function Contact() {
           />
         </svg>
       ),
-      title: "90 Trần Thái Tông, Cầu Giấy, Hà Nội ",
+      title: "Số nhà 2-70, ngõ 70 Lưu Hữu Phước, Nam Từ Liêm, TP Hà
+Nội ",
     },
     {
       id: 2,

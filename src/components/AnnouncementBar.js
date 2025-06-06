@@ -37,7 +37,7 @@ function AnnouncementBar() {
                 />
               </svg>
               <p className="text-xs text-white">
-                90 Trần Thái Tông - Cầu Giấy - Hà Nội
+                Số nhà 2-70, ngõ 70 Lưu Hữu Phước, Nam Từ Liêm, TP Hà Nội
               </p>
             </div>
             <div className="flex items-center gap-1.5">

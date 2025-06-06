@@ -9,9 +9,11 @@ function Information() {
       <h3 className="text-lg text-orange-700 uppercase">In Tiến Thành</h3>
       <div className="pt-4">
         <p className="text-base text-gray-500 pb-2">
-          Địa chỉ: 90 Trần Thái Tông, Cầu Giấy, Hà Nội
+          Địa chỉ: Số nhà 2-70, ngõ 70 Lưu Hữu Phước, Nam Từ Liêm, TP Hà Nội
         </p>
-        <p className="text-base text-gray-500 pb-2">Điện thoại: 0976.379.636 - 0924.594.222</p>
+        <p className="text-base text-gray-500 pb-2">
+          Điện thoại: 0976.379.636 - 0924.594.222
+        </p>
         <p className="text-base text-gray-500 pb-2">
           Email: intienthanh6868@gmail.com
         </p>
