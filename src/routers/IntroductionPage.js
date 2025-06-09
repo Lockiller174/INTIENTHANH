@@ -69,26 +69,27 @@ function IntroductionPage() {
                     Đôi nét về In Tiến Thành
                   </h6>
                   <p className="introduction-page__paragraph text-base text-gray-500 pb-2">
-                    Được thành lập năm 2016, In Tiến Thành là một trong những
-                    cây “đại thụ” trong lĩnh vực in ấn. Trải qua gần 10 năm hoạt
-                    động In Tiến Thành đã khẳng định vị thế và sự chuyên nghiệp
-                    của mình trong lĩnh vực in ấn tại Hà Nội. Minh chứng quan
-                    trọng và rõ ràng nhất chính là lượng khách hàng đồng hành
-                    với công ty tăng lên mỗi ngày.
+                    Thành lập vào năm 2016, In Tiến Thành đã vươn mình trở thành
+                    một trong những đơn vị tiên phong và uy tín hàng đầu trong
+                    ngành in ấn tại Hà Nội. Gần một thập kỷ hoạt động, công ty
+                    không chỉ khẳng định vị thế vững chắc mà còn xây dựng được
+                    lòng tin yêu từ đông đảo khách hàng, thể hiện qua số lượng
+                    đối tác không ngừng gia tăng mỗi ngày.
                   </p>
                   <p className="introduction-page__paragraph text-base text-gray-500 pb-2">
-                    Trong nhiều năm qua In Tiến Thành không ngừng cố gắng nỗ,
-                    lực mang đến dịch in ấn chất lượng nhất. Đứng trước sự cạnh
-                    tranh gay gắt của thị trường in ấn Hà Nội, nhưng In ấn Tiến
-                    Thành chưa bao giờ hoang mang. Thay vào đó công ty vẫn luôn
-                    hoạt động theo sứ mệnh, nhiệm vụ và mục tiêu đã đề ra.
+                    Với tinh thần không ngừng đổi mới và nỗ lực, In Tiến Thành
+                    luôn đặt chất lượng dịch vụ lên hàng đầu, sẵn sàng đối mặt
+                    với mọi thử thách trong bối cảnh cạnh tranh khốc liệt của
+                    thị trường. Chúng tôi kiên định theo đuổi sứ mệnh mang đến
+                    những sản phẩm in ấn tinh tế, chuyên nghiệp, đáp ứng mọi nhu
+                    cầu của khách hàng.
                   </p>
                   <p className="introduction-page__paragraph text-base text-gray-500 pb-4">
-                    Đến với In Tiến Thành quý doanh nghiệp sẽ được trải nghiệm
-                    dịch vụ in ấn chuyên nghiệp, giá cả cạnh tranh. Cùng với đó,
-                    In Tiến Thành luôn đưa ra những lời cam kết vàng trong dịch
-                    vụ. Vì vậy quý doanh nghiệp hoàn toàn có thể đặt niềm tin
-                    tuyệt đối vào In Tiến Thành.
+                    Đến với In Tiến Thành, quý doanh nghiệp sẽ được trải nghiệm
+                    dịch vụ in ấn đẳng cấp với mức giá cạnh tranh, đi kèm những
+                    cam kết vàng về chất lượng và tiến độ. Chúng tôi tự hào là
+                    đối tác đáng tin cậy, nơi quý khách có thể gửi gắm niềm tin
+                    tuyệt đối để nâng tầm thương hiệu của mình.
                   </p>
                   <h6 className="introduction-page__title text-lg text-orange-700 py-2">
                     Sứ mệnh – Mục tiêu – Phương châm hoạt động
