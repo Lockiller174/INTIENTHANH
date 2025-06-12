@@ -15,7 +15,7 @@ function Service() {
       url: img1,
       title: "DỊCH VỤ IN",
       description:
-        "In Tiến Thành cung cấp các dịch vụ in ấn bạt Hiflex, decal PP, decal ôtô, băng rôn, backlit, canvas ... Chúng tôi liên kết để tạo ra hệ thống máy móc, nhà xưởng đầy đủ và hiện đại nhằm cung cấp dịch vụ in ấn với chất lượng cao và giá thành cạnh tranh nhất tới khách hàng. Rất hy vọng nhận được sự hợp tác và đồng hành cùng Quý khách.",
+        "In Tiến Thành chuyên cung cấp các dịch vụ in bạt Hiflex, decal PP, decal ô tô, băng rôn, backlit film, tranh canvas và nhiều sản phẩm in ấn quảng cáo khác tại Hà Nội.Chúng tôi hợp tác cùng hệ thống xưởng in và máy móc hiện đại để mang đến dịch vụ in ấn chất lượng cao, màu sắc chuẩn, tiến độ nhanh với giá thành cạnh tranh.In Tiến Thành cam kết đồng hành cùng khách hàng, cung cấp giải pháp in ấn hiệu quả – uy tín – đúng hẹn cho cá nhân, doanh nghiệp, cửa hàng và đơn vị tổ chức sự kiện.",
     },
     // {
     //   url: "https://inbacviet.com.vn/wp-content/themes/lamvt-inbacviet/images/dich-vu-2.jpg",
