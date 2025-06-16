@@ -25,7 +25,7 @@ function Tag() {
     },
   ];
 
-  const currentUrl = "https://inanhoanggia.vn";
+  const currentUrl = "https://intienthanh.com";
 
   const socials = [
     {
