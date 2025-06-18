@@ -173,7 +173,7 @@ function Share() {
           <a
             className="df-center"
             target="blank"
-            href="https://www.messenger.com/t/61567526177876/"
+            href="https://www.facebook.com/profile.php?id=61577299380613"
             title="Messenger"
           >
             <div className="sharing__item-icon df-center">
