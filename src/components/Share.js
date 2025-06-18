@@ -167,6 +167,35 @@ function Share() {
           </div>
         </div>
         <div
+          className="sharing__item sharing__item--mess"
+          style={{ "--color": "#0068ff80" }}
+        >
+          <a
+            className="df-center"
+            target="blank"
+            href="https://www.messenger.com/t/61567526177876/"
+            title="Messenger"
+          >
+            <div className="sharing__item-icon df-center">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="44px"
+                height="44px"
+                viewBox="96 93 322 324"
+                id="messenger"
+              >
+                <path
+                  fill="#0084ff"
+                  d="M257 93c-88.918 0-161 67.157-161 150 0 47.205 23.412 89.311 60 116.807V417l54.819-30.273C225.449 390.801 240.948 393 257 393c88.918 0 161-67.157 161-150S345.918 93 257 93zm16 202l-41-44-80 44 88-94 42 44 79-44-88 94z"
+                ></path>
+              </svg>
+            </div>
+          </a>
+          <div className="tooltip-text" style={{ "--width": "250px" }}>
+            <p>Chat với chúng tôi qua Fanpage</p>
+          </div>
+        </div>
+        <div
           className="sharing__item sharing__item--mail"
           style={{ "--color": "#5ac2cc" }}
         >
@@ -216,35 +245,6 @@ function Share() {
             <p>Gửi email cho chúng tôi</p>
           </div>
         </div>
-        {/* <div
-          className="sharing__item sharing__item--mess"
-          style={{ "--color": "#0068ff80" }}
-        >
-          <a
-            className="df-center"
-            target="blank"
-            href="https://www.messenger.com/t/61567526177876/"
-            title="Messenger"
-          >
-            <div className="sharing__item-icon df-center">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="44px"
-                height="44px"
-                viewBox="96 93 322 324"
-                id="messenger"
-              >
-                <path
-                  fill="#0084ff"
-                  d="M257 93c-88.918 0-161 67.157-161 150 0 47.205 23.412 89.311 60 116.807V417l54.819-30.273C225.449 390.801 240.948 393 257 393c88.918 0 161-67.157 161-150S345.918 93 257 93zm16 202l-41-44-80 44 88-94 42 44 79-44-88 94z"
-                ></path>
-              </svg>
-            </div>
-          </a>
-          <div className="tooltip-text" style={{ "--width": "250px" }}>
-            <p>Chat với chúng tôi qua Fanpage</p>
-          </div>
-        </div> */}
       </div>
     </div>
   );
