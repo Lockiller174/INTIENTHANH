@@ -9,7 +9,7 @@ function Share() {
           style={{ "--color": "#ba363d" }}
         >
           <a className="df-center" href="tel:0924594222" title="Phone">
-            <div className="sharing__item-icon df-center">
+            <div className="sharing__item-icon df-center hover:scale-110 hover:-translate-y-1 transition-all duration-300 drop-shadow-xl">
               <svg
                 width="44"
                 height="44"
@@ -54,7 +54,7 @@ function Share() {
           style={{ "--color": "#ba363d" }}
         >
           <a className="df-center" href="tel:0976379636" title="Phone">
-            <div className="sharing__item-icon df-center">
+            <div className="sharing__item-icon df-center hover:scale-110 hover:-translate-y-1 transition-all duration-300 drop-shadow-xl">
               <svg
                 width="44"
                 height="44"
@@ -104,7 +104,7 @@ function Share() {
             href="https://zalo.me/0976379636"
             title="Zalo"
           >
-            <div className="sharing__item-icon df-center">
+            <div className="sharing__item-icon df-center hover:scale-110 hover:-translate-y-1 transition-all duration-300 drop-shadow-xl">
               <svg
                 width="44"
                 height="44"
@@ -176,7 +176,7 @@ function Share() {
             href="https://www.facebook.com/profile.php?id=61577299380613"
             title="Messenger"
           >
-            <div className="sharing__item-icon df-center">
+            <div className="sharing__item-icon df-center hover:scale-110 hover:-translate-y-1 transition-all duration-300 drop-shadow-xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="44px"
@@ -205,7 +205,7 @@ function Share() {
             href="mailto: intienthanh6868@gmail.com?subject=Feedback&body=Message"
             title="Mail"
           >
-            <div className="sharing__item-icon df-center">
+            <div className="sharing__item-icon df-center hover:scale-110 hover:-translate-y-1 transition-all duration-300 drop-shadow-xl">
               <svg
                 width="44"
                 height="44"
@@ -249,7 +249,4 @@ function Share() {
     </div>
   );
 }
-
 export default Share;
-
-<script src="path/to/bootstrap.bundle.min.js"></script>;

@@ -366,6 +366,15 @@ function Footer() {
       <div className="footer__bottom bg-orange-800">
         <div className="container">
           <div className="flex items-center gap-1 py-2">
+            <div>
+              CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ NGUYÊN BẢO | Địa chỉ trụ sở chính:
+              Số 50A, ngõ 345 đường Khương Trung, Phường Khương Đình, TP Hà Nội
+              | Địa chỉ kinh doanh: Nhà 7A, ngách 18, ngõ 181 Xuân Thủy, phường
+              Cầu Giấy, TP Hà Nội | MST: 0107454528 - cấp ngày 31 tháng 05 năm
+              2016 | Nơi cấp: Sở Kế hoạch và Đầu tư Thành phố Hà Nội - Phòng
+              Đăng ký Kinh doanh | Điện thoại: 0976.379.636 - 0924.594.222
+              Email: intienthanh6868@gmail.com
+            </div>
             <img src={iconCopyRight} alt="" />
             <p className="text-sm text-white">
               Bản quyền thuộc về CÔNG TY IN TIẾN THÀNH

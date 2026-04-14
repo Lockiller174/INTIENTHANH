@@ -32,13 +32,13 @@ function Header({ onSearch }) {
 
   return (
     <div className="header sticky top-0 z-50 bg-white border-b">
-      <div className="header__announcement-bar hidden lg:block">
+      <div className="header__announcement-bar">
         <AnnouncementBar />
       </div>
       <div className="header__top lg:py-3">
         <div className="container">
           <div className="flex justify-between items-center gap-2">
-            <Link to="/" className="header__logo hidden lg:block">
+            <Link to="/" className="header__logo hidden lg:block" onClick={() => window.scrollTo(0, 0)}>
               <img src={logo} alt="" className="h-16" />
             </Link>
             <div className="header__wrapper py-3 lg:py-0 w-full lg:w-auto">
@@ -49,6 +49,7 @@ function Header({ onSearch }) {
                 <Link
                   to="/"
                   className="header__logo flex items-center justify-center"
+                  onClick={() => window.scrollTo(0, 0)}
                 >
                   <img src={logo} alt="Logo" className="h-10" />
                 </Link>

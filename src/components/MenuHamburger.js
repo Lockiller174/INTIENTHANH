@@ -61,7 +61,7 @@ function MenuHamburger({ isOpen, setIsOpen }) {
       >
         <div className="menu-hamburger__content px-4">
           <div className="menu-hamburger__head flex items-center justify-between py-4">
-            <Link to="/" className="menu-hamburger__logo block">
+            <Link to="/" className="menu-hamburger__logo block" onClick={() => { window.scrollTo(0, 0); setIsOpen(false); }}>
               <img src={logo} alt="Logo" className="h-10" />
             </Link>
             <div
