@@ -57,8 +57,7 @@ function Footer() {
           />
         </svg>
       ),
-      title:
-        "2 Ng. 70 P. Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội, Việt Nam ",
+      title: "Nhà 7A, ngách 18, ngõ 181 Xuân Thủy, Cầu Giấy, Hà Nội ",
     },
     {
       id: 2,

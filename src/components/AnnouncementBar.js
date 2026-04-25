@@ -35,7 +35,7 @@ function AnnouncementBar() {
                 />
               </svg>
               <p className="text-[11px] md:text-xs text-white">
-                Số nhà 2-70, ngõ 70 Lưu Hữu Phước, Hà Nội
+                Nhà 7A, ngách 18, ngõ 181 Xuân Thủy, Cầu Giấy, Hà Nội
               </p>
             </div>
             <div className="hidden sm:flex items-center gap-1.5">
@@ -54,9 +54,14 @@ function AnnouncementBar() {
                   d="M12 8v4l3 3m6-3a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"
                 />
               </svg>
-              <p className="text-[11px] md:text-xs text-white">T2 - T7 / 8:00 AM - 07:00 PM</p>
+              <p className="text-[11px] md:text-xs text-white">
+                T2 - T7 / 8:00 AM - 07:00 PM
+              </p>
             </div>
-            <a href="tel:0976379636" className="flex items-center gap-1.5 bg-white/20 px-3 py-1 rounded-full hover:bg-white/30 transition-all font-semibold">
+            <a
+              href="tel:0976379636"
+              className="flex items-center gap-1.5 bg-white/20 px-3 py-1 rounded-full hover:bg-white/30 transition-all font-semibold"
+            >
               <svg
                 className="text-white w-4 h-4 animate-pulse"
                 aria-hidden="true"
@@ -72,7 +77,9 @@ function AnnouncementBar() {
                   d="M18.427 14.768 17.2 13.542a1.733 1.733 0 0 0-2.45 0l-.613.613a1.732 1.732 0 0 1-2.45 0l-1.838-1.84a1.735 1.735 0 0 1 0-2.452l.612-.613a1.735 1.735 0 0 0 0-2.452L9.237 5.572a1.6 1.6 0 0 0-2.45 0c-3.223 3.2-1.702 6.896 1.519 10.117 3.22 3.221 6.914 4.745 10.12 1.535a1.601 1.601 0 0 0 0-2.456Z"
                 />
               </svg>
-              <p className="text-[11px] md:text-xs text-white">0976.379.636 - 0924.594.222</p>
+              <p className="text-[11px] md:text-xs text-white">
+                0976.379.636 - 0924.594.222
+              </p>
             </a>
           </div>
         </div>
